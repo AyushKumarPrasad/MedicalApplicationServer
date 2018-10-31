@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "325837457772",
+    "firebase_url": "https://medicalapplication-fc476.firebaseio.com",
+    "project_id": "medicalapplication-fc476",
+    "storage_bucket": "medicalapplication-fc476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325837457772:android:dcad813937353008",
+        "android_client_info": {
+          "package_name": "belapur.idea.turnup.medical.kumar.ayush.medicalapplicationserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325837457772-2lc31v6qg4pk1nip7p7bj68d5be1kona.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "belapur.idea.turnup.medical.kumar.ayush.medicalapplicationserver",
+            "certificate_hash": "e3996d2cc306434a766174afbe05264fed9fc888"
+          }
+        },
+        {
+          "client_id": "325837457772-vka3vl2qkut4crpjimi1e98e2und96pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0c8om0lK7ve7CkBmYiBjpWzANwMxjk4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325837457772-vka3vl2qkut4crpjimi1e98e2und96pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325837457772:android:b56ef8189de0bab1",
+        "android_client_info": {
+          "package_name": "kumar.ayush.application.medical.belapur.solutions.turnup.medicalapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325837457772-s52g68d4jbqn48au50ksdopib409eu1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kumar.ayush.application.medical.belapur.solutions.turnup.medicalapplication",
+            "certificate_hash": "97ed1303c5b8225a06cb06b1bb24f75aa4c4bcb9"
+          }
+        },
+        {
+          "client_id": "325837457772-vka3vl2qkut4crpjimi1e98e2und96pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0c8om0lK7ve7CkBmYiBjpWzANwMxjk4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325837457772-vka3vl2qkut4crpjimi1e98e2und96pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
